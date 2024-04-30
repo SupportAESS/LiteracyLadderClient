@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        background-color: #d1d5db;
+    }
+}
+
+.slick-slide > div {
+    margin: 0 10px;
+}
